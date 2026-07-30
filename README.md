@@ -8,7 +8,7 @@
 
 <!-- Subtítulo animado -->
 <a href="https://github.com/Apolinari0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2E86AB&center=true&vCenter=true&width=650&lines=Especialista+TOTVS+Protheus+%7C+ADVPL+%26+TLPP;APIs+REST+para+integra%C3%A7%C3%A3o+entre+sistemas;Front-end+com+Angular+%2B+PO-UI;Do+baixo+n%C3%ADvel+em+C+%C3%A0+ci%C3%AAncia+de+dados" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2E86AB&center=true&vCenter=true&width=680&lines=%2B4+anos+desenvolvendo+com+TOTVS+Protheus;ADVPL+%26+TLPP+%7C+APIs+REST+para+integra%C3%A7%C3%A3o;Front-end+com+Angular+%2B+PO-UI;Solu%C3%A7%C3%B5es+que+geram+impacto+real+no+neg%C3%B3cio" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -36,7 +36,7 @@
 ```typescript
 const lucas = {
   cargo: "Analista e Desenvolvedor de Sistemas",
-  especialidade: "Ecossistema TOTVS Protheus",
+  experiencia: "+4 anos no ecossistema TOTVS Protheus",
   atuacao: ["Desenvolvimento", "Integração", "Sustentação", "Go-live"],
   foco: "Soluções que geram impacto real no negócio",
   filosofia: "Performance, manutenibilidade e menos trabalho manual",
@@ -44,7 +44,7 @@ const lucas = {
 };
 ```
 
-Sou **Analista e Desenvolvedor de Sistemas** com experiência consolidada no ecossistema **TOTVS Protheus**, atuando no desenvolvimento, integração e evolução de soluções corporativas. Trabalho desde a **análise de requisitos** até a **implementação**, sempre alinhando a solução técnica à necessidade do negócio.
+Sou **Analista e Desenvolvedor de Sistemas** com **+4 anos de atuação** no ecossistema **TOTVS Protheus**, trabalhando no desenvolvimento, integração e evolução de soluções corporativas. Atuo desde a **análise de requisitos** até a **implementação**, sempre alinhando a solução técnica à necessidade do negócio.
 
 Participo de **projetos de implantação e go-live** diretamente com clientes — organizando prioridades sob pressão e garantindo entregas consistentes — além de atuar na **sustentação e melhoria contínua**, propondo soluções para otimizar processos e reduzir atividades manuais.
 
@@ -70,7 +70,7 @@ Participo de **projetos de implantação e go-live** diretamente com clientes �
 <!--                       MÓDULOS PROTHEUS                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🏢 Módulos Protheus que domino
+## 🏢 Módulos Protheus com que atuo
 
 <div align="center">
 
@@ -144,16 +144,16 @@ Participo de **projetos de implantação e go-live** diretamente com clientes �
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Apolinari0&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=2E86AB&icon_color=00C2CB&bg_color=0D1117" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Apolinari0&hide_border=true&theme=tokyonight&ring=2E86AB&fire=00C2CB&currStreakLabel=2E86AB&background=0D1117" alt="GitHub Streak"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Apolinari0&show_icons=true&hide_border=true&theme=tokyonight&title_color=2E86AB&icon_color=00C2CB&bg_color=0D1117" alt="GitHub Stats"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=Apolinari0&hide_border=true&theme=tokyonight&ring=2E86AB&fire=00C2CB&currStreakLabel=2E86AB&background=0D1117" alt="GitHub Streak"/>
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apolinari0&layout=compact&hide_border=true&theme=tokyonight&title_color=2E86AB&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apolinari0&layout=compact&hide_border=true&theme=tokyonight&title_color=2E86AB&bg_color=0D1117&langs_count=6&hide=html,css" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Apolinari0&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+<sub>💡 A maior parte do meu trabalho vive em <b>repositórios privados corporativos</b> (Protheus/ADVPL), então os números públicos representam apenas uma fração do que construo.</sub>
 
 </div>
 
@@ -165,16 +165,14 @@ Participo de **projetos de implantação e go-live** diretamente com clientes �
 
 ## 🚀 Projetos em destaque
 
-Uma amostra da minha amplitude técnica — de blockchain a ciência de dados, passando por arquitetura de computadores e game dev:
+Do trabalho corporativo aos projetos pessoais — soluções pensadas para resolver problemas reais:
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| 🔗 **[CertChain](https://github.com/Apolinari0/CertChain)** | Aplicação de **Blockchain** para certificação | `Blockchain` `Smart Contracts` |
+| 💰 **Tesourex** 🔒 | _[EDITAR: descreva em 1 linha o que o Tesourex faz]_ | `[EDITAR: stack]` |
 | 🧮 **[nmf_project](https://github.com/Apolinari0/nmf_project)** | Fatoração de matrizes não-negativas (**NMF**) aplicada a dados | `Python` `Data Science` |
-| 🧠 **[MemoriaAOC](https://github.com/Apolinari0/MemoriaAOC)** | Jogo da memória sobre **Arquitetura e Organização de Computadores** | `Game Dev` `AOC` |
-| 🏓 **[pong](https://github.com/Apolinari0/pong)** | Clássico jogo Pong feito do zero | `JavaScript` `Canvas` |
-| 🧬 **[Algoritmos-em-bio](https://github.com/Apolinari0/Algoritmos-em-bio)** | Algoritmos de **bioinformática** | `Python` |
-| 🧱 **[AED1](https://github.com/Apolinari0/AED1)** | Estruturas de dados e algoritmos em baixo nível | `C` |
+
+<sub>🔒 = projeto privado. Como não é público, o nome fica sem link — mas posso te ajudar a montar um card com screenshot/descrição, ou publicar uma versão *case study* sem expor o código proprietário.</sub>
 
 <br/>
 
