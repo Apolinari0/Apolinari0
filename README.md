@@ -169,7 +169,7 @@ Do trabalho corporativo aos projetos pessoais — soluções pensadas para resol
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
-| 💰 **Tesourex** 🔒 | _[EDITAR: descreva em 1 linha o que o Tesourex faz]_ | `[EDITAR: stack]` |
+| 💰 **Tesourex** 🔒 | _https://tesourex.vercel.app/_ | `Angular` `Golang` `Supabase`  |
 | 🧮 **[nmf_project](https://github.com/Apolinari0/nmf_project)** | Fatoração de matrizes não-negativas (**NMF**) aplicada a dados | `Python` `Data Science` |
 
 <sub>🔒 = projeto privado. Como não é público, o nome fica sem link — mas posso te ajudar a montar um card com screenshot/descrição, ou publicar uma versão *case study* sem expor o código proprietário.</sub>
