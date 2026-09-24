@@ -24,7 +24,7 @@ I build REST APIs, system integrations and Angular front-ends on top of ERP syst
 
 ## Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/lucas-apolinario-a62558238/) · lucasapolinario070@gmail.com
+[LinkedIn](https://www.linkedin.com/in/lucas-apolinario-a62558238/) · lcs.apoli@gmail.com
 
 <details>
 <summary>🇧🇷 <b>Versão em português</b> (clique para abrir)</summary>
@@ -57,6 +57,6 @@ Desenvolvo APIs REST, integrações entre sistemas e frontends em Angular sobre 
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/lucas-apolinario-a62558238/) · lucasapolinario070@gmail.com
+[LinkedIn](https://www.linkedin.com/in/lucas-apolinario-a62558238/) · lcs.apoli@gmail.com
 
 </details>
