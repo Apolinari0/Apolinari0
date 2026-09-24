@@ -5,7 +5,7 @@ I build REST APIs, system integrations and Angular front-ends on top of ERP syst
 
 - 🔌 Integrated **TopSolid** (CAD/CAM/PDM engineering software) with the Protheus ERP, replacing 10 separate routines with a single automated flow from product engineering to production and sales.
 - 🧩 Build REST APIs consumed by web and mobile apps, whose responses drive dynamically rendered screens (**server-driven UI**).
-- 🏭 3+ years across finance, procurement, billing, inventory and manufacturing domains, from requirements to go-live.
+- 🏭 4+ years across finance, procurement, billing, inventory and manufacturing domains, from requirements to go-live.
 - 📍 São José dos Campos, Brazil · Open to remote work (UTC-3)
 
 ## Tech stack
@@ -38,8 +38,8 @@ Desenvolvo APIs REST, integrações entre sistemas e frontends em Angular sobre 
 
 - 🔌 Integrei o **TopSolid** (software de engenharia CAD/CAM/PDM) ao Protheus, substituindo 10 rotinas por um fluxo automatizado único, da engenharia do produto até a produção e as vendas.
 - 🧩 Desenvolvo APIs REST consumidas por aplicações web e mobile, cujas respostas definem a montagem de telas dinâmicas (**server-driven UI**).
-- 🏭 Mais de 3 anos atuando em Financeiro, Compras, Faturamento, Estoque e PCP, do levantamento de requisitos ao go-live.
-- 📍 São José dos Campos – SP · Aberto a trabalho remoto
+- 🏭 Mais de 4 anos atuando em Financeiro, Compras, Faturamento, Estoque e PCP, do levantamento de requisitos ao go-live.
+- 📍 São José dos Campos – SP · 
 
 ## Tecnologias
 
